@@ -8,4 +8,4 @@ To compile and run the program, in the terminal, type:
 
 javac *.java
 
-java GameOfLife
+java InsertionSort; java MergeSort
